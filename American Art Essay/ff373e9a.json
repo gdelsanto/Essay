@@ -40,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "b8412453"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The clothes chosen for each figure is telling of their intentions and tone. The fisherman is drawn in a working man's clothes, highlighting his humanity. The mermaid is depicted with ragged clothes that are falling off. This shows another trope offered by Vedder's time, the femme fatale of the sea. Mermaids were often depicted as temptresses, therefore, Vedder's interpretation is consistent with that theme.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://ids.lib.harvard.edu/ids/iiif/17816829",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:613.0776977539062,442.6612854003906,800.1752319335938,266.9411315917969"
+      },
+      "id": "ff373e9a"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "030f8b2d"
   }
 ]
