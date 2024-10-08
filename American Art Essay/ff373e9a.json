@@ -61,5 +61,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "030f8b2d"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The environment depicted here represents realism in different ways. First, Vedder paid attention to the natural detail of the environment, making it realism. Another way this piece shows realism is through the tone and intention behind the piece. It was painted in a specific time and it reflects culture at that time.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://ids.lib.harvard.edu/ids/iiif/17816829",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:78.04334259033203,498.57452392578125,481.11327362060547,714.8832397460938"
+      },
+      "id": "ff373e9a"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ecdb0eb3"
   }
 ]
