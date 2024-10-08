@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "2f9c1384"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Here, Vedder depicts the man in a heroic pose. With his broad stance, Vedder is showing us that this man is strong and a savior. This is consistent with the trope that was prioritized in his modern society. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://ids.lib.harvard.edu/ids/iiif/17816829",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:217.37644958496094,156.13430786132812,1220.454849243164,215.51629638671875"
+      },
+      "id": "ff373e9a"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b8412453"
   }
 ]
