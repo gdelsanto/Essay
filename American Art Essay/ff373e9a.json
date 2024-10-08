@@ -82,5 +82,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "ecdb0eb3"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Vedder uses the sky to reflect the ominous and dangerous tone of this piece. The environment is made up of neutral and cool tones which create a foggy and gloomy atmosphere.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://ids.lib.harvard.edu/ids/iiif/17816829",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1583.3809814453125,145.6093292236328,806.8599853515625,567.0653533935547"
+      },
+      "id": "ff373e9a"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "458fb756"
   }
 ]
