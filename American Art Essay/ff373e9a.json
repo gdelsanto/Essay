@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Vedder styles her tail in a folk-like manor, resembling a devil's pitchfork. This shows the trope of women in water being dangerous and a femme fatale.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://ids.lib.harvard.edu/ids/iiif/17816829",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1196.1885986328125,781.8131713867188,611.7454833984375,247.67926025390625"
+      },
+      "id": "ff373e9a"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2f9c1384"
+  }
+]
