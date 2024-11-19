@@ -20,3 +20,18 @@ This piece was created by Raphael Drouart, a French artist. This piece depicts t
 #Mermaids: Ludovico Sardagna
 The piece was created by Italian artist, Ludovico Sardagna. This piece shows five different mermaid-like creatures in the water. Here, they are more child-like, yet still have distinct female features. This is a completely different representation of mermaids than have been evaluated thus far. Instead of being temptresses or soft nurturing figures, Sardagna chose to make them more childish and dynamic. 
 .ve-media https://manifests.collections.yale.edu/yuag/obj/4075
+
+#Additional Information
+Below are ten resources of additional information about the artists being compared to the original artwork by Elihu Vedder. Amongst the information about each artist compared here, there are multiple resources about certain tropes, such as Mermaids and the Femme Fatale, and how they developed and influenced art and culture.
+
+[Siren Song: History of Mermaids in Art](https://www.dailyartmagazine.com/mermaids-in-art/)
+[Hans Christian Anderson and Disney: The Tale of Two Different Mermaids](https://crosssection.gns.wisc.edu/2017/09/06/hans-christian-andersen-and-disney-the-tale-of-two-different-mermaids/)
+[An Alluring, Deadly Song- The History of Mermaids in Art](https://www.widewalls.ch/magazine/mermaids-in-art)
+[Femme Fatales The rise, fall, and rebirth, of an archetype](https://www.arthistoryproject.com/subjects/people/femme-fatales/)
+[Artistic Portrayals of the Femme Fatale](https://victorianweb.org/gender/fatalart.html)
+
+==Elihu Vedder=={Q389726}
+==Gustave Moreau=={Q203828}
+==Raphael Drouart=={Q21289707}
+==The Little Mermaid=={Q11859}
+==Sirens=={Q150986}
