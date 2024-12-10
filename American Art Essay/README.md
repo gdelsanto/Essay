@@ -26,3 +26,7 @@ Below are ten resources of additional information about the artists being compar
 
 #Footnotes
 [^1]: 
+[^2]:
+[^3]:
+[^4]:
+[^5]:
