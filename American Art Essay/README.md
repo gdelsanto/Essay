@@ -22,7 +22,7 @@ The piece was created by Italian artist, Ludovico Sardagna. This piece shows fiv
 .ve-media https://manifests.collections.yale.edu/yuag/obj/4075
 
 #Additional Information
-Below are ten resources of additional information about the artists being compared to the original artwork by Elihu Vedder. Amongst the information about each artist compared here, there are multiple resources about certain tropes, such as Mermaids and the Femme Fatale, and how they developed and influenced art and culture.
+Below are ten resources of additional information about the artists being compared to the original artwork by ==Elihu Vedder=={Q389726}. Amongst the information about each artist compared here, there are multiple resources about certain tropes, such as Mermaids and the Femme Fatale, and how they developed and influenced art and culture.
 
 [Siren Song: History of Mermaids in Art](https://www.dailyartmagazine.com/mermaids-in-art/)
 [Hans Christian Anderson and Disney: The Tale of Two Different Mermaids](https://crosssection.gns.wisc.edu/2017/09/06/hans-christian-andersen-and-disney-the-tale-of-two-different-mermaids/)
